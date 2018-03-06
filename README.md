@@ -1,7 +1,12 @@
 # MachineLearning
 
 ## Path:
+### Machine Learning
+- [ ] [Machine Learning A-Z: Hands-on Python and R in Data Science](https://www.udemy.com/machinelearning/learn/v4/content)
+
 ### Deep Learning
+- [x] [Deep Learning: Recurrent Neural Networks in Python](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python/learn/v4/overview): Theano
+- [x] [Deep Learning for Text and Sequence](https://classroom.udacity.com/courses/ud730)
 - [ ] [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
 - [ ] [Deep Learning with TensorFlow, IBM Cognitive Class, ML0120EN](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+2016/info)
 - [ ] [fast.ai courses](http://course.fast.ai/lessons/lessons.html)
