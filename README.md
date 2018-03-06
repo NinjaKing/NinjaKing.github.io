@@ -7,4 +7,7 @@
 - [ ] [fast.ai courses](http://course.fast.ai/lessons/lessons.html)
 - [ ] Sequence Model:
   - [ ] [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
-  - [ ] 
+  
+## Projects
+### Product matching
+- [ ] [Walmart model](https://medium.com/walmartlabs/product-matching-in-ecommerce-4f19b6aebaca)
