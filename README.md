@@ -12,6 +12,7 @@
 - [ ] [fast.ai courses](http://course.fast.ai/lessons/lessons.html)
 - [ ] Sequence Model:
   - [ ] [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
+  - [ ] [How to Define an Encoder-Decoder Sequence-to-Sequence Model for Neural Machine Translation in Keras](https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/)
   
 ## Projects
 ### Product matching
