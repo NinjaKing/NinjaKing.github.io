@@ -20,3 +20,4 @@
 ### Product matching
 - [ ] [Walmart model](https://medium.com/walmartlabs/product-matching-in-ecommerce-4f19b6aebaca)
 - [ ] [A Multi-task Learning Approach for Improving Product Title Compression with User Search Log Data](https://arxiv.org/pdf/1801.01725.pdf)
+- [ ] [Attribute Extraction from Product Titles in eCommerce, Ajinkya More, @WalmartLabs, 2016](https://arxiv.org/pdf/1608.04670.pdf)
