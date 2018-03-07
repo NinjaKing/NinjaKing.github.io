@@ -10,6 +10,7 @@
 - [ ] [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
 - [ ] [Deep Learning with TensorFlow, IBM Cognitive Class, ML0120EN](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+2016/info)
 - [ ] [fast.ai courses](http://course.fast.ai/lessons/lessons.html)
+- [ ] [Neural Networks and Deep Learning, deeplearning.ai](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 - [ ] Sequence Model:
   - [ ] [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
   - [ ] [How to Define an Encoder-Decoder Sequence-to-Sequence Model for Neural Machine Translation in Keras](https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/)
