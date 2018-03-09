@@ -6,7 +6,7 @@ import re
 
 # In[80]:
 
-df_seq = pd.read_csv('../data/cat113_root_name.csv')
+df_seq = pd.read_csv('../data/cat661-root-train.csv')
 X = df_seq.iloc[:,0].values
 y = df_seq.iloc[:,1].values
 X_roots = df_seq.iloc[:,2].values
