@@ -12,7 +12,8 @@
 - [ ] [Deep Learning with TensorFlow, IBM Cognitive Class, ML0120EN](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+2016/info)
 - [ ] [fast.ai courses](http://course.fast.ai/lessons/lessons.html)
 - [x] [Neural Networks and Deep Learning, deeplearning.ai](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
-- [ ] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, deeplearning.ai](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+- [x] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, deeplearning.ai](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+- [ ] [Sequence Models, deeplearning.ai](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
 - [ ] Sequence Model:
   - [x] [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
   - [x] [How to Define an Encoder-Decoder Sequence-to-Sequence Model for Neural Machine Translation in Keras](https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/)
