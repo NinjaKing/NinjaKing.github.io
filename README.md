@@ -13,12 +13,13 @@
 - [ ] [fast.ai courses](http://course.fast.ai/lessons/lessons.html)
 - [x] [Neural Networks and Deep Learning, deeplearning.ai](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 - [x] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, deeplearning.ai](https://www.coursera.org/learn/deep-neural-network/home/welcome)
-- [x] [Sequence Models, deeplearning.ai](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
 - [x] [Structuring Machine Learning Projects, deeplearning.ai](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+- [ ] [Convolution Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 - [x] Sequence Model:
   - [x] [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
   - [x] [How to Define an Encoder-Decoder Sequence-to-Sequence Model for Neural Machine Translation in Keras](https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/)
   - [x] [A ten-minute introduction to sequence-to-sequence learning in Keras (Character, Word level)](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
+  - [x] [Sequence Models, deeplearning.ai](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
   
 ## Projects
 ### Product matching
