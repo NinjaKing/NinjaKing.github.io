@@ -29,4 +29,4 @@
 - [x] [Attribute Extraction from Product Titles in eCommerce, Ajinkya More, @WalmartLabs, 2016](https://arxiv.org/pdf/1608.04670.pdf)
 - [ ] [Multi-component Similarity Method for Web Product Duplicate Detection](http://damirvandic.com/wp-content/papercite-data/pdf/sac_2015.pdf)
 - [ ] [Character-Based Text Classification using Top Down Semantic Model for Sentence Representation](https://arxiv.org/pdf/1705.10586.pdf)
-- [ ] [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626.pdf)
+- [x] [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626.pdf)
