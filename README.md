@@ -9,6 +9,7 @@
 - [x] [Deep Learning for Text and Sequence](https://classroom.udacity.com/courses/ud730)
 - [ ] [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
 - [ ] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+- [ ] [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/syllabus.html)
 - [ ] [Deep Learning with TensorFlow, IBM Cognitive Class, ML0120EN](https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0120EN+2016/info)
 - [ ] [fast.ai courses](http://course.fast.ai/lessons/lessons.html)
 - [x] [Neural Networks and Deep Learning, deeplearning.ai](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
