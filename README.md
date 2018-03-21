@@ -21,7 +21,10 @@
   - [x] [How to Define an Encoder-Decoder Sequence-to-Sequence Model for Neural Machine Translation in Keras](https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/)
   - [x] [A ten-minute introduction to sequence-to-sequence learning in Keras (Character, Word level)](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
   - [x] [Sequence Models, deeplearning.ai](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
-  
+ 
+### NLP
+- [ ] [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/ftp/arxiv/papers/1708/1708.05148.pdf)
+
 ## Projects
 ### Product matching
 - [ ] [Walmart model](https://medium.com/walmartlabs/product-matching-in-ecommerce-4f19b6aebaca)
