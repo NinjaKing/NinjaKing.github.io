@@ -24,6 +24,10 @@
  
 ### NLP
 - [ ] [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/ftp/arxiv/papers/1708/1708.05148.pdf)
+- [ ] [A Probabilistic Generative Grammar for Semantic Parsing](http://www.aclweb.org/anthology/K17-1026)
+
+### Images Processing
+- [ ] [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf?)
 
 ## Projects
 ### Product matching
@@ -36,4 +40,3 @@
 
 ## Recent Papers
 - [https://arxiv.org/list/stat.ML/recent](https://arxiv.org/list/stat.ML/recent)
-- [ ] [A Probabilistic Generative Grammar for Semantic Parsing](http://www.aclweb.org/anthology/K17-1026)
