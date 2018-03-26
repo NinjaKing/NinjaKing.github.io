@@ -36,3 +36,4 @@
 
 ## Recent Papers
 - [https://arxiv.org/list/stat.ML/recent](https://arxiv.org/list/stat.ML/recent)
+- [ ] [A Probabilistic Generative Grammar for Semantic Parsing](http://www.aclweb.org/anthology/K17-1026)
