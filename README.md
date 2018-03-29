@@ -26,7 +26,7 @@
 - [ ] [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/ftp/arxiv/papers/1708/1708.05148.pdf)
 - [x] [A Probabilistic Generative Grammar for Semantic Parsing](http://www.aclweb.org/anthology/K17-1026)
 - [x] [Named Entity Disambiguation for Noisy Text](http://www.aclweb.org/anthology/K17-1008)
-- [x] [Feature Selection as Causal Reference: Experiments with Text Classification](https://www.aclweb.org/anthology/K/K17/K17-1018.pdf)
+- [ ] [Feature Selection as Causal Reference: Experiments with Text Classification](https://www.aclweb.org/anthology/K/K17/K17-1018.pdf)
 
 ### Images Processing
 - [ ] [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf?)
