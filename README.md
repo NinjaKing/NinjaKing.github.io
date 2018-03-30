@@ -3,6 +3,7 @@
 ## Path:
 ### Machine Learning
 - [ ] [Machine Learning A-Z: Hands-on Python and R in Data Science](https://www.udemy.com/machinelearning/learn/v4/content)
+- [ ] [Machine Learning With Big Data](https://www.coursera.org/learn/big-data-machine-learning/home/welcome)
 
 ### Deep Learning
 - [x] [Deep Learning: Recurrent Neural Networks in Python](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python/learn/v4/overview): Theano
