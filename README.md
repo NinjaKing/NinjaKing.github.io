@@ -44,3 +44,7 @@
 
 ## Recent Papers
 - [https://arxiv.org/list/stat.ML/recent](https://arxiv.org/list/stat.ML/recent)
+
+## Engineer
+- [Deep learning in production with Keras, Redis, Flask, and Apache](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/)
+- [A scalable Keras + deep learning REST API](https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/)
