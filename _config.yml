@@ -304,4 +304,4 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-merlot
->>>>>>> 9e8f158fdc7ec26f3b4e4531238606c64e304d71
+
