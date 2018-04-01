@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<img class="img-circle" width="20%" hspace="25" style="float: left;" src="https://ninjaking.github.io/images/me.png">
+## Hoang Nguyen
+<a href="https://github.com/gear" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hoang-nt" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a> &nbsp; &nbsp; <a href="https://twitter.com/hoang_titech" target="_blank"><i class="fa fa-twitter fa-2x"></i></a> &nbsp; &nbsp; <a href="https://facebook.com/popApple" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>   
+Machine Learning Engineer @ [WebSoSanh](https://websosanh.vn/)  
+[My CV]({{site.url}}/assets/docs/HoangNguyen_CV_Jan2018.pdf) (Updated January 2018)  
+
 <p align="center">
   <img src="https://ninjaking.github.io/images/500x300.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
