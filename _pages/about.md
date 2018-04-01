@@ -8,23 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-circle" width="20%" hspace="25" style="float: left;" src="https://ninjaking.github.io/images/me.png">
-## Hoang Nguyen
-<a href="https://github.com/gear" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp; <a href="https://linkedin.com/in/hoang-nt" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a> &nbsp; &nbsp; <a href="https://twitter.com/hoang_titech" target="_blank"><i class="fa fa-twitter fa-2x"></i></a> &nbsp; &nbsp; <a href="https://facebook.com/popApple" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>   
-Machine Learning Engineer @ [WebSoSanh](https://websosanh.vn/)  
-[My CV]({{site.url}}/assets/docs/HoangNguyen_CV_Jan2018.pdf) (Updated January 2018)  
-
 <p align="center">
   <img src="https://ninjaking.github.io/images/500x300.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-
-* I am pursuing Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). In my sophomore year, I joined [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/) as a research assistant, advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net/). I also collaborate closely with [Prof. Jun Wang](http://web4.cs.ucl.ac.uk/staff/jun.wang/blog/) in [University College London](https://www.ucl.ac.uk/).
-* At present, I am a research intern at [Carnegie Mellon University](http://www.cmu.edu/), advised by [Prof. Fei Fang](https://feifang.info/), working in the field of multi-agent systems and deep reinforcement learning.
-* My research interests lie in the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in sequential decision making, generative modeling, natural language understanding, multi-agent systems and data mining.
-* **I am currently applying for CS Ph.D. starting from Fall 2018. Click [here](http://lantaoyu.com/files/lantaoyu_cv.pdf) to view my up-to-date CV. If you are interested in working with me or knowing more about me, please feel free to [contact me](http://lantaoyu.com/contact/).**
-
-
+### <i class="fa fa-graduation-cap"></i> education
+- _Master of Engineering_ (MEng) - `2015-2017`.  
+**Tokyo Institute of Technology**. Grade: 3.00/3.00 ([Japanese system](https://en.wikipedia.org/wiki/Academic_grading_in_Japan))
+- _Bachelor of Engineering_ (BEng) - `2009-2014`.  
+**Hanoi University of Science and Technology**. Grade: 3.21/4.00 (Top 10%)
+- _High School Diploma_ - `2006-2009`.  
+**High School for Gifted Student - Hanoi National University of Education**
 
 # Recent News
 * November 28, 2017. A paper was accepted in the *NIPS-17 Aligned Artificial Intelligence Workshop*.
