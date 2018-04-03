@@ -1,10 +1,10 @@
 ---
-title: "Solving Relaxation Orienteering Problem using DCA-CUT "
+title: "Solving Relaxation Orienteering Problem using DCA-CUT"
 collection: publications
-permalink: /publications/DCA-CUT
+permalink: /publications/2015-05-13-DCA-CUT
 venue: "Modelling, Computation and Optimization in Information Systems and Management Sciences, MCO 2015: Metz, France"
 date: 2015-05-13
-citation: 'Anh Son Ta, Hoai An Le Thi and Trong Sy Ha'
+citation: 'Anh Son Ta, Hoai An Le Thi and Trong Sy Ha. (2015). &quot;Solving Relaxation Orienteering Problem using DCA-CUT.&quot; <i>Modelling, Computation and Optimization in Information Systems and Management Sciences, MCO 2015: Metz, France</i>.'
 ---  
 
 ## Abstract
